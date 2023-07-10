@@ -1,4 +1,4 @@
-# E-commerce-react-native
+# M-commerce-react-native
 
 
 ![e-comm1](https://user-images.githubusercontent.com/61947084/229450881-f6acb90a-31ff-498e-bebb-e7a5934859ea.png)
